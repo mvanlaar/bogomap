@@ -1,0 +1,13 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+A,SITP,Caracas,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=1&tr2=1&tipoRuta=6,00398B,
+B,SITP,Autonorte,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=2&tr2=1&tipoRuta=6,95B734,
+C,SITP,Suba,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=3&tr2=1&tipoRuta=6,EABF3B,
+D,SITP,Calle 80,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=4&tr2=1&tipoRuta=6,7B6CA7,
+E,SITP,NQS Central,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=5&tr2=1&tipoRuta=6,9C6C0C,
+F,SITP,Américas,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=6&tr2=1&tipoRuta=6,BB0615,
+G,SITP,NQS Sur,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=7&tr2=1&tipoRuta=6,3D9CD7,
+H,SITP,Caracas Sur,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=8&tr2=1&tipoRuta=6,D88C00,
+J,SITP,Eje Ambiental,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=9&tr2=1&tipoRuta=6,D0A2AA,
+K,SITP,Calle 26,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=10&tr2=1&tipoRuta=6,CAB07C,
+L,SITP,Carrera 10,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=11&tr2=1&tipoRuta=6,00949C,
+M,SITP,Carrera 7,,,3,http://www.sitp.gov.co/loader.php?lServicio=Rutas&lTipo=busqueda&lFuncion=filterByTroncal&troncal=12&tr2=1&tipoRuta=6,8A0079,
